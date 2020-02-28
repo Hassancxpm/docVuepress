@@ -1,0 +1,15 @@
+{
+  "name": "ComexposiumConnect Guide",
+  "short_name": "CXPMConnect Guide",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#1489d4"
+}
